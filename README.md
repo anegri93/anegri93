@@ -9,6 +9,9 @@ remember what's fragile, and don't say "done" until verification actually ran.
 
 ### 🔧 What I'm working on
 
+- **[flowrunner](https://github.com/anegri93/flowrunner)** — A local, unattended runner: you
+  describe a feature in Claude Code, approve the plan, and it carries the work to a reviewable PR.
+  Each repo gets a `.flowrunner/` brain that learns from the corrections you make.
 - **[claude-engineering-harness](https://github.com/anegri93/claude-engineering-harness)** — A
   Claude Code harness: a fixed engineering standard in every session, rules generated from a
   semantic read of the repo, a verification gate that runs real commands, and a living baseline
