@@ -16,10 +16,14 @@ remember what's fragile, and don't say "done" until verification actually ran.
   Claude Code harness: a fixed engineering standard in every session, rules generated from a
   semantic read of the repo, a verification gate that runs real commands, and a living baseline
   of known risks.
-- **[audit-repo](https://github.com/anegri93/audit-repo)** — Claude Code skill + manual checklist
-  to answer, in minutes, whether an npm/pnpm/yarn supply-chain advisory affects your repo.
 - **[agent-skills](https://github.com/anegri93/agent-skills)** — Reusable skills for coding
   agents (project bootstrapping and more).
+
+### 🤝 Open source contributions
+
+- **[blavka/agents-tree](https://github.com/blavka/agents-tree)** — Live terminal tree of
+  coding-agent sessions and subagents. Contributed a
+  [compact, attention-first tree view](https://github.com/blavka/agents-tree/pull/7) (merged).
 
 ### 🧠 What I care about
 
